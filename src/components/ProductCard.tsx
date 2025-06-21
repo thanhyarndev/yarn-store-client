@@ -4,17 +4,6 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { Product } from '@/data/products';
 
-// Định nghĩa kiểu cho product
-interface Product {
-  id: number;
-  name: string;
-  description: string;
-  price: string;
-  image: string;
-  category: string;
-  icon: string;
-}
-
 interface ProductCardProps {
   product: Product;
   index: number;
