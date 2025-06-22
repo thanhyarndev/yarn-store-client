@@ -12,7 +12,7 @@ export default function ProductsPage() {
           </h1>
           <div className="w-24 h-1 bg-gradient-to-r from-blue-500 to-blue-600 mx-auto mb-8 rounded-full"></div>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Khám phá toàn bộ sưu tập sản phẩm len thủ công độc đáo của Dore Len.
+            Khám phá toàn bộ sưu tập sản phẩm len thủ công độc đáo của Doralen.
           </p>
         </div>
 

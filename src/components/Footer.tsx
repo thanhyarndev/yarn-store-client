@@ -14,7 +14,7 @@ export default function Footer() {
           <div className="lg:col-span-2">
             <div className="mb-6 flex items-center gap-2">
               <h3 className="text-2xl font-bold text-blue-400 mb-2 sparkle-title relative">
-                Dore Len
+                Doralen
                 <span className="absolute -top-2 -right-6 text-yellow-300 text-2xl animate-pulse">✨</span>
               </h3>
               <span className="text-blue-300 text-2xl">🧶</span>
@@ -144,7 +144,7 @@ export default function Footer() {
         <div className="border-t border-gray-800 mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm">
-              © 2024 Dore Len. Tất cả quyền được bảo lưu.
+              © 2024 Doralen. Tất cả quyền được bảo lưu.
             </p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <a href="/privacy" className="text-gray-400 hover:text-white text-sm transition-colors">

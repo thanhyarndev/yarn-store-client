@@ -30,14 +30,14 @@ export default function AboutSection() {
           <div className="space-y-8">
             <div>
               <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6 flex items-center gap-2">
-                Về Dore Len <span className="text-blue-400 text-2xl">🧶</span>
+                Về Doralen <span className="text-blue-400 text-2xl">🧶</span>
               </h2>
               <div className="w-20 h-1 bg-blue-500 mb-8"></div>
             </div>
 
             <div className="space-y-6 text-lg text-gray-700 leading-relaxed bg-white/60 rounded-2xl p-4 shadow-lg">
               <p>
-                Dore Len được thành lập từ tình yêu với nghề thủ công truyền thống và mong muốn 
+                Doralen được thành lập từ tình yêu với nghề thủ công truyền thống và mong muốn 
                 mang đến những sản phẩm chất lượng, ấm áp cho mọi người.
               </p>
               

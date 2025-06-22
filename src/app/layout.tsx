@@ -9,12 +9,12 @@ const quicksand = Quicksand({
 });
 
 export const metadata: Metadata = {
-  title: "Dore Len - Ấm áp từ những sợi tay | Handmade Yarn Shop",
+  title: "Doralen - Ấm áp từ những sợi tay | Handmade Yarn Shop",
   description: "Khám phá các sản phẩm handmade từ len chất lượng cao. Mũ len, khăn quàng, găng tay và nhiều sản phẩm khác được làm thủ công với tình yêu và sự tận tâm.",
-  keywords: "len handmade, mũ len, khăn quàng, găng tay, sản phẩm len, handmade, thủ công, dore len",
-  authors: [{ name: "Dore Len" }],
+  keywords: "len handmade, mũ len, khăn quàng, găng tay, sản phẩm len, handmade, thủ công, Doralen",
+  authors: [{ name: "Doralen" }],
   openGraph: {
-    title: "Dore Len - Ấm áp từ những sợi tay",
+    title: "Doralen - Ấm áp từ những sợi tay",
     description: "Khám phá các sản phẩm handmade từ len chất lượng cao",
     type: "website",
     locale: "vi_VN",

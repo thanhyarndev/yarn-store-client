@@ -41,7 +41,7 @@ export default function HeroSection() {
           <div className="mb-8 flex flex-col items-center">
             <div className="flex items-center justify-center gap-3">
               <h1 className="text-5xl md:text-7xl font-bold mb-4 tracking-tight inline-block drop-shadow-lg">
-                Dore Len
+              Doralen
               </h1>
               {/* Yarn Ball Icon */}
               <span className="inline-block mb-2 animate-spin-slow">
